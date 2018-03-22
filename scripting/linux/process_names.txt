@@ -1,0 +1,6 @@
+python
+python3
+perl
+sh
+ksh
+bash
