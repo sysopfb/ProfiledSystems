@@ -1,0 +1,6 @@
+microsoftedge.exe
+iexplorer.exe
+firefox.exe
+opera.exe
+chrome.exe
+

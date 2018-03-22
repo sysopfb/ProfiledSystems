@@ -1,0 +1,6 @@
+/var/www/
+/var/apache/
+*/local/apache2/
+/srv/www/
+*/httpd/html/
+*/public_html/*
