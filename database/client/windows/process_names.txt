@@ -1,0 +1,4 @@
+mysql.exe
+mysqldump.exe
+mysqladmin.exe
+
