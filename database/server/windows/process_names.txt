@@ -1,3 +1,15 @@
 mysqld.exe
 mysqld-nt.exe
-
+msdtc.exe
+sqlservr.exe
+sqlagent.exe
+msmdsrv.exe
+sqladhlp.exe
+sqladhlp90.exe
+sqlbrowser.exe
+msftesql.exe
+msdtssrvr.exe
+ReportingServicesService.exe
+sqlwriter.exe
+fdlauncher.exe
+postgres.exe
